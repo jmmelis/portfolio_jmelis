@@ -2,17 +2,19 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Johan Melis # the website title (if blank, full name will be used instead)
 first_name: Johan
 middle_name: 
 last_name: Melis
 email: johan.melis@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: 
+  Currently, I'm a PhD candidate in bioengineering at the Dickinson lab at Caltech (estimated graduation date October 2022). The research question of my PhD is how a fly controls flight with just 24 motor-neurons? Insect flight is notoriously difficult to model; exotic aerodynamic mechanisms such as the leading-edge vortex and rotational forces are crucial for lift generation, Coriolis and centrifugal forces on the wings affect stability and finally the fly's wing hinge is so complex that even synchrotron tomography could not resolve it's mechanics.
+
+To overcome these difficulties I spent 
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
