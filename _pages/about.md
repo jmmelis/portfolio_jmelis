@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: JMMelis.jpg
+  image: JMMelis.xcf
   image_cicular: false # crops the image to make it circular
 
 social: true  # includes social icons at the bottom of the page
